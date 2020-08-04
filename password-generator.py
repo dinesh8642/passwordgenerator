@@ -6,7 +6,7 @@ import clipboard
 
 
 
-# Pending
+# Tasks:
 # Handling odd char count : done
 # Autocopy to clipboard : done
 # Handle \\ properly for special char: pending
