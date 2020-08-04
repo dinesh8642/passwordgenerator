@@ -1,7 +1,11 @@
+#!/usr/bin/python3
 
 import random
 from random import shuffle
 import clipboard
+
+
+
 # Pending
 # Handling odd char count : done
 # Autocopy to clipboard : done
