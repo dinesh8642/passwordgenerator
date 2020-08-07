@@ -9,7 +9,7 @@ import clipboard
 # Tasks:
 # Handling odd char count : done
 # Autocopy to clipboard, doesn't work on kali: pending
-# Handle \\ properly for special char: pending
+# Handle \\ properly for special char: fixed
 # Shuffle the final generated password : done
 
 password=[]
